@@ -1,0 +1,461 @@
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+.fimg img
+{
+	width: 100%;
+	height: 424px;
+	background-position: center;
+}
+.himg h2{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	margin-top: -331px;
+
+}
+
+.header h1{
+	font-size:30px;
+	color: white;
+	text-align: center;
+	margin-top:30px;
+}
+.bcolumn{
+	background-color: #46C7C7;
+	margin-top:370px;
+	height: 120px;
+}
+.bcolumn h3{
+	color: white;
+}
+
+
+.na nav{
+	margin-top: -183px;
+	height: 52px;
+}
+.ca {
+	margin-left: 400px;
+	width: 100px;
+
+}
+.bhead{
+	margin-top: -120px;
+	margin-left: 245px;
+}
+.bcontain {
+	width: 100px;
+	height: 800px;
+	
+}
+.bcontain h5{
+	color: black;
+	width: 248px;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 106px;
+	margin-left: 617px;
+	font-family: verdana,sans-serif;
+}
+.bcontain p{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: -77px;
+	width: 677px;
+	margin-left: 460px;
+}
+
+.bheadet h3{
+	color: black;
+	font-family: verdana,sans-serif
+	font-size:30px;
+	margin-top: -648px;
+	margin-left: 656px;
+}
+
+.imgga img{
+	width: 233px;
+	margin-top: 41px;
+	margin-left: 198px;
+	
+
+}
+.imgga h4{
+	font-size: 20px;
+	text-align: center;
+	margin-right: 711px;
+	margin-top: 17px;
+
+}
+.imgga p{
+	font-size: 15px;
+	text-align: center;
+	margin-left: 207px;
+	margin-top: -2px;
+	width: 221px;
+
+}
+
+.imgg1 img{
+	width: 228px;
+	margin-top: 293px;
+	margin-left: 515px;
+}
+
+.imgg1 p{
+	font-size: 15px;
+	text-align: center;
+	margin-left: 518px;
+	margin-top: -2px;
+	width: 221px;
+
+}
+
+.imgg1 h4{
+
+	font-size: 20px;
+	text-align: center;
+	margin-right: 101px;
+	margin-top: 17px;
+}
+
+
+.imgg2 img{
+
+	width: 233px;
+	margin-top: -396px;
+	margin-left: 830px;
+}
+.imgg2 h4{
+	font-size: 20px;
+	text-align: center;
+	margin-right: -539px;
+	margin-top: -153px;
+
+}
+
+
+
+.imgg2 p{
+	font-size: 15px;
+	text-align: center;
+	margin-left: 851px;
+	margin-top: -6px;
+	width: 221px;
+
+
+}
+
+.treeimg{
+	background: url(./img128/home.jpg); no-repeat;
+	width: 100%;
+	margin-top: 14px;
+	height: 253px;
+	background-position: center;
+	background-size: cover;
+	padding-right: 100px;
+}
+.hea h1{
+	font-size: 35px;
+	text-align: center;
+	color: black;
+	height: 200px;
+	margin-top: 50px;
+}
+
+
+.fs img{
+	background-position: center;
+    background-size: cover;
+	width: 149px;
+	margin-top: -417px;
+	margin-left: 384px;
+
+}
+
+.fs h4{
+	font-size: 20px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-top:-248px;
+	margin-left: 436px;
+	
+
+}
+
+.fs p{
+	font-size: 13px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-right:20px;
+	margin-top: -48px;
+	margin-left: 343px;
+	width: 333px;
+
+
+}
+
+.gh img{
+	background-position: center;
+    background-size: cover;
+	width: 149px;
+	margin-top: -479px;
+	margin-left: 770px;
+
+
+}
+
+.gh h4{
+
+	font-size: 20px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-top:-313px;
+	margin-left: 837px;	
+
+}
+
+.gh p{
+
+	font-size: 13px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-left:20px;
+	margin-top: -48px;
+	margin-left: 720px;
+	width: 333px;
+
+
+}
+
+.bg img{
+	font-size: 13px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-left:20px;
+	margin-top: -544px;
+	margin-left: 1048px;
+	width: 192px;
+
+
+}
+
+
+.bg p{
+	font-size: 13px;
+	color: black;
+	font-family: verdana,sans-serif;
+	margin-left:20px;
+	margin-top: -375px;
+	margin-left: 1060px;
+	width: 257px;
+
+
+}
+.bd img{
+    
+    background-position: center;
+    background-size: cover;
+	width: 149px;
+	margin-top: -185px;
+	margin-left: 41px;
+
+}
+
+.bd p{
+	font-size: 13px;
+	color: black;
+	font-family: verdana,sans-serif
+	margin-right:20px;
+	margin-top: 5px;
+	padding-left: 50px;
+	width: 319px;
+
+}
+
+.bd h4{
+	font-size: 20px;
+	color: black;
+	font-family: verdana,sans-serif
+	margin-top:-33px;
+	margin-left: 62px;
+}
+
+
+.gd img{
+	border-radius: 20px;
+}
+
+.gfd img{
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+	margin-top: -215px;
+}
+
+
+.zre img{
+	border-radius: 50px;
+}
+
+.zre h1{
+    color: cyan;
+    font-size: 40px;
+    font-family: verdana,sans-serif;
+    text-align: center;
+    margin-top: -16px;
+}
+.zre img{
+	background-position: center;
+	background-size: cover;
+	margin-top: 10px;
+    width: 40%;
+	height: 300px;
+}
+
+
+.zre p{
+	width: 400px;
+	margin-top: -90px;
+	font-size: 10px;
+	font-family: verdana,sans-serif;
+
+}
+
+
+.zre button{
+	background-color: cyan;
+	color: black;
+	margin-top: -87px;
+	margin-left: 78px;
+}
+.bfr img{
+	border-radius: 50px;
+}
+
+.bfr img{
+   background-position: center;
+	background-size: cover;
+	margin-top: -551px;
+    width: 42%;
+	height: 300px;
+	margin-left: 657px;
+
+}
+
+.bfr p{
+
+	width: 400px;
+	margin-top: -334px;
+	font-size: 10px;
+	font-family: verdana,sans-serif;
+	margin-left: 736px;
+
+
+}
+
+.bfr button{
+	background-color: cyan;
+	color: black;
+	margin-top: -87px;
+	margin-left: 856px;
+
+}
+
+.hg img{
+	background-position: center;
+    background-size: cover;
+    width: 32%;
+    height: 321px;
+    margin-left: -6px;
+}
+
+.ge img{
+    background-position: center;
+    background-size: cover;
+    width: 43%;
+    height: 321px;
+    padding-left: 132px;
+    margin-top: -398px;
+    margin-left: 294px;
+}
+
+.kl img{
+
+	background-position: center;
+    background-size: cover;
+    width: 50%;
+    height: 321px;
+    margin-left: -6px;
+	margin-top: -469px;
+	margin-left: 873px;
+}
+
+.jk img{
+
+	background-position: center;
+    background-size: cover;
+    width: 32%;
+    height: 321px;
+	margin-top: -220px;
+	margin-left: -3px;
+	
+}
+
+.kb img{
+
+	background-position: center;
+    background-size: cover;
+    width: 38%;
+    height: 321px;
+	margin-top: -418px;
+	margin-left: 931px;
+	
+}
+
+.uy img{
+	background-position: center;
+    background-size: cover;
+    width: 42%;
+    height: 321px;
+    padding-left: 38px;
+    margin-top: -513px;
+    margin-left: 390px;
+
+}
+
+.ftb{
+    position: fixed;
+  
+}
+footer{
+    background: #1E9F9F;
+}
+.cd,.fm,.sm{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.fm .fnm{
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.btn{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
